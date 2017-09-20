@@ -1,3 +1,4 @@
+// Comment to try to make a merge conflict!!!
 'use strict';
 
 /**
