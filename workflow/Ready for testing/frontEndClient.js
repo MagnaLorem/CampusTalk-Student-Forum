@@ -5,3 +5,13 @@ function subtract(){
   alert("Result= " + (v1-v2).toString());
 
 }
+
+function test1(x) {
+
+  var check1 = x;
+
+  if (check1 === true) {
+    console.log("Hello World");
+  }
+
+}
